@@ -282,7 +282,7 @@ Experience technology designed to make you more wise, not more vulnerable.
 
 [![🌐 SoftArmor.io](https://img.shields.io/badge/🌐-SoftArmor.io-blue?style=for-the-badge)](https://soft-armor.io)
 [![📖 Complete Vision](https://img.shields.io/badge/📖-Sacred%20Architecture-purple?style=for-the-badge)]()
-[![💬 Connect](https://img.shields.io/badge/💬-@1K1NG_1-green?style=for-the-badge)](https://twitter.com/1K1NG_1)
+[![💬 Connect](https://img.shields.io/badge/💬-@KING-green?style=for-the-badge)](https://bsky.app/profile/king-hollowlux.bsky.social)
 
 ---
 
